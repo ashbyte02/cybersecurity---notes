@@ -104,7 +104,13 @@ After navigating to the hidden `/bank-transfer` page, selecting account number 8
 ## Tools / Commands Used
 
 * `dirb` → Used to discover hidden directories and pages on a website
+### dirb command
 
+dirb http://fakebank.thm
+
+- Used to brute-force directories on a website  
+- Helps discover hidden endpoints  
+- Output shows accessible paths starting with "+"
 ---
 
 ## Key Takeaways
