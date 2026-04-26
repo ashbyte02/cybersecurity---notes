@@ -67,7 +67,7 @@ Examples:
 **Question:**
 What is the bank account number shown in the FakeBank application?
 
-https://github.com/ashbyte02/cybersecurity---notes/blob/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20144523.png
+![FakeBank Interface](https://raw.githubusercontent.com/ashbyte02/cybersecurity---notes/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20145504.png)
 
 **Answer:**
 8881
@@ -82,7 +82,7 @@ After launching the FakeBank application, the account number was directly visibl
 **Question:**
 Use the `dirb` command to discover hidden pages on the website.
 
-https://github.com/ashbyte02/cybersecurity---notes/blob/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20145420.png
+![Dirb Output](https://raw.githubusercontent.com/ashbyte02/cybersecurity---notes/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20145420.png)
 
 **Answer:**
 http://fakebank.thm/bank-transfer
@@ -97,7 +97,7 @@ The `dirb` tool is used for directory brute-forcing. It scans a target website f
 **Question:**
 Deposit money and find the flag.
 
-https://github.com/ashbyte02/cybersecurity---notes/blob/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20145504.png
+![Flag Output](https://raw.githubusercontent.com/ashbyte02/cybersecurity---notes/997d7375a36544da8f78a432d3acab13fe6239be/Screenshot%202026-04-26%20144523.png)
 
 **Answer:**
 BANK-HACKED
